@@ -1,0 +1,15 @@
+# 忽略IDE文件
+.idea/
+*/__pycache__/
+venv/
+# 忽略日志文件
+logs/
+# 忽略编译文件
+dist/
+*.spec
+# 忽略编译文件
+build/
+# 忽略运行时文件
+rubberband.exe
+sndfile.dll
+ffmpeg.exe
